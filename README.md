@@ -1,4 +1,4 @@
-# Desafio Git/Gituhub Primeiro Repositorio
+# Desafio GitHub Primeiro Repositorio
 Desafio de Código Git/Github
 
 ### Links Úteis:
