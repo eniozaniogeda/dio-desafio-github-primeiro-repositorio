@@ -6,4 +6,4 @@ Desafio de Código Git/Github
 
 [GIT Website](http://www.git-scm.com/)
 
-[DIO Website](www.dio.me)
+[DIO Website](https://www.dio.me)
