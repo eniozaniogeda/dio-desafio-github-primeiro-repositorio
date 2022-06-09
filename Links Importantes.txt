@@ -1,0 +1,15 @@
+Links Importantes:
+
+* Git - http://www.git-scm.com/
+
+* GitHub - https://github.com/
+
+* DIO - www.dio.me
+
+* Linux Ubuntu - https://ubuntu.com/
+
+* Apache - https://www.apache.org/
+
+* Java Pt Br - https://www.java.com/pt-BR/
+
+* Portugol - http://lite.acad.univali.br/portugol/

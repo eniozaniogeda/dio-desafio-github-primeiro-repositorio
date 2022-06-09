@@ -1,0 +1,70 @@
+Principais comandos no GIT:
+
+
+	*comando* git clone https://github.com/eniozaniogeda/example.git
+		
+		copia o repositório do servidor e aloca na máquina local
+		tem que digitar git clone + link fornecido no GitHub para repositório
+
+	*tecla* ctrl + l
+
+		limpa a tela. É semelhante ao "cls" clearscreen em msdos
+
+	*tecla* TAB
+
+		autopreenche o nome... por exemplo Workspace, você pode digitar Wo+ TAB
+		e ele autocompleta o nome para Workspace
+
+	*comando* echo
+
+		retorna uma string, por exemplo "echo "Hello World"" retornará "Hello World"
+
+	*comando* openssl sha1 objeto
+	
+		apresenta o SHA1 do objeto
+		SHA1 é uma criptografia com 40 caracteres
+		por exemplo: "openssl sha1 texto.txt " apresenta o SHA1 do objeto texto.txt
+
+	*comando* cd objeto
+	
+		acessa uma pasta que o usuário especifíca (objeto)
+		por exemplo: "cd dio-desafio-github-primeiro-repositorio" acessará o diretório dio-desafio...
+		
+
+	*comando* cd..
+
+		é o inverso do comando anterior, ou seja, retorna um diretório ou uma pasta
+
+	*comando* ls
+
+		serve para listar (ls = list) os diretórios e arquivos presentes na pasta em questão
+
+	*comando* git init
+
+		GIT inicia a gerenciar e versionar o nosso código
+
+	*comando* ls -a
+
+		O -a passa a mostrar as pastas ocultas, então seria um list + list ocultas
+
+	*conceito* markdown.md
+
+		Arquivos .md são inseridos como uma home page do GitHub
+
+	*comando* git add .
+
+		Adiciona todos os arquivos no GIT ao stage. Depois deverá realizar o commit e posteriormente
+		o push para o servidor
+
+	*comando* git status
+
+		Identificar o status de stage do diretório
+
+	*comando* git commit -m
+
+		Efetua o commit e adiciona uma mensagem deste commit, exemplo:
+		"git commit -m "inclusao da pasta módulo 2""
+		A mensagem é o usuário que informa e indica a que se refere esta "commitada"
+	
+		
+	
